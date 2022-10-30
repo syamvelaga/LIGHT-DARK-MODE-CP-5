@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.main-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.white-color {
+  color: white;
+}
+
+.second-bg {
+  border: 2px solid black;
+  text-align: center;
+  padding: 30px;
+  border-radius: 20px;
+  background-color: black;
+}
+.inner-bg {
+  border: 2px solid black;
+  text-align: center;
+  padding: 30px;
+  border-radius: 20px;
+}
